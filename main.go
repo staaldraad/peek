@@ -1,4 +1,4 @@
 package meh2
 
-func peek(){
+func Peek(){
 }
